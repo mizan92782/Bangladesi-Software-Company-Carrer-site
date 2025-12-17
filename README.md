@@ -11,7 +11,7 @@ These links were collected through extensive online research to help job seekers
 | Optimizely Careers | [Link](https://careers.optimizely.com/search) |
 | Graphic People Studio | [Link](https://www.graphicpeoplestudio.com/career/) |
 | Infolytx Careers | [Link](https://www.infolytx.com/company/careers/) |
-| Relisource Full Stack Python | [Link](https://www.relisource.com/job-post/full-stack-python/) |
+| Relisource  | [Link](https://www.relisource.com/carrer/) |
 | Relisource Careers | [Link](https://www.relisource.com/careers/) |
 | Brainstation 23 | [Link](https://brainstation-23.easy.jobs/) |
 | FieldNation Jobs | [Link](https://jobs.lever.co/fieldnation?location=Dhaka) |
