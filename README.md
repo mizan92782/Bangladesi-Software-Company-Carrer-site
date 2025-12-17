@@ -1,7 +1,7 @@
 # Bangladesi-Software-Company-Carrer-site
 
-This repository contains a list of job and career links of Bangladshi Software Company carrer site.  
-These links were collected through extensive online research to help job seekers, developers, and IT professionals find career opportunities in Bangladesh and internationally.  
+This repository contains a list of job and career links of Bangladeshi Software Company Carrer Site.  
+These links were collected through extensive online research to help job seekers, developers, and IT professionals find career opportunities in Bangladesh .  
 
 
 
